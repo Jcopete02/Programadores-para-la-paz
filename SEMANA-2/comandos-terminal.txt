@@ -1,0 +1,4 @@
+
+mkdir = Crear caperta.
+cd = Entrar en la carpeta.
+touch = Crear los archivos .txt

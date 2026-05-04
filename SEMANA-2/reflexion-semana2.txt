@@ -1,0 +1,2 @@
+
+Es importante porque la terminar permite al desarrollador trabajar de forma rapida, precisa y eficiente. En ella se puede navegar entre carpetas, crear carpetas o archivos, movelos, renombrarlos y organizarlos sin depender de intaerfaz graficas. También, algunas herramientas de desarrollo como git, node.js, se utilizar principalmente desde la terminal. Saber esto facilita automatizar tareas, ejecutar proyectos e instalar dependencias y solucionar problemas con mayor rapidez. Asimismo, brinda un mayor control sobre el entorno de trabajo y los archivos del proyecto.
