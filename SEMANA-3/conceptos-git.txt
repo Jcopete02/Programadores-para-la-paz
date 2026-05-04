@@ -1,0 +1,5 @@
+Repositorio = Un repositorio es como una biblioteca que creamos en Git o GitHub, que nos permite alojar nuestros proyectos y trabajar de manera local (computador) y remota (internet) en colaboración con otros programadores.
+
+Commit = Commit es uno comando de Git que se usa para registrar los cambios o modificaciones que hacemos en nuertos ptoyecyos.
+
+Push = Es un comando que se utiliza para enviar los commits desde el repositorio loca al repositorio remoto
