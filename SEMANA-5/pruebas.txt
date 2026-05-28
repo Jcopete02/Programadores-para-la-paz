@@ -1,0 +1,8 @@
+1. http://localhost:3000
+Esta es la ruta principal, muestra un mensaje inicial del servidor y permite comprobar que la aplicación está funcionando correctamente.
+
+2. http://localhost:3000/saludo
+Esta ruta devuelve un saludo definido en el servidor, mostrando un mensaje simple al usuario.
+
+3. http://localhost:3000/mensaje/juan
+Esta ruta utiliza un parámetro dinámico. En este caso, "juan" se toma como valor del parámetro y el servidor responde con un mensaje personalizado usando ese nombre.
