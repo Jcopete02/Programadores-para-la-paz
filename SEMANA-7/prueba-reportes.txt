@@ -1,0 +1,21 @@
+
+Reporte enviado:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+
+Se realizó una petición GET a la misma ruta para consultar los reportes almacenados.
+
+Al consultar los reportes, el servidor devuelve una lista en formato JSON con los registros existentes, permitiendo visualizar la información registrada y verificar que los datos fueron almacenados correctamente.
+
+Respuesta:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+]
