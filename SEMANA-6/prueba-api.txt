@@ -1,0 +1,18 @@
+Prueba realizada con una petición POST a:
+
+Se envió el JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Se obtubo la Respuesta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos enviados y devolvió la respuesta en formato JSON confirmando la recepción de la información.
